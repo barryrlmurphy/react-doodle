@@ -1,0 +1,32 @@
+{
+  "name": "react-doodle",
+  "version": "1.0.0",
+  "description": "Mess around with react ...",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barryrlmurphy/react-doodle.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Barry Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barryrlmurphy/react-doodle/issues"
+  },
+  "homepage": "https://github.com/barryrlmurphy/react-doodle#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.7.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-serve": "^1.4.0"
+  }
+}
